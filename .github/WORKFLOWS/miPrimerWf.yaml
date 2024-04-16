@@ -1,0 +1,6 @@
+name: My first workflow
+on: push
+
+jobs:
+  job1:
+    runs
